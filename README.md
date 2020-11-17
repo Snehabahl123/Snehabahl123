@@ -1,6 +1,8 @@
 ### Hi there :raised_hand:
 <br />
+
 - :blue_book: I am currently enrolled in <a href="https://programsandcourses.anu.edu.au/2019/program/mmlcv">Master of Machine Learning and Coputer Vision</a> at <a href="https://www.anu.edu.au/">Australian National University</a>.
+
 - 🔭 I’m currently working on various Machine Learning, Deep Learning and Computer Vision projets.
 - 🌱 I’m currently learning various methods for hyperparameter tuning, pose estimation and object tracking.
 - 👯 I’m looking to collaborate on projects related to Object Detection and more Machine learning and Computer Vision tasks.
