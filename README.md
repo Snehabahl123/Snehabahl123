@@ -1,6 +1,7 @@
 ### Hi there :raised_hand:
 
 
+
 - :blue_book: I am currently enrolled in Master of Machine Learning and Coputer Vision at Australian National University.
 - 🔭 I’m currently working on various Machine Learning, Deep Learning and Computer Vision projets.
 - 🌱 I’m currently learning various methods for hyperparameter tuning, pose estimation and object tracking.
@@ -10,4 +11,4 @@
 - :heart: I love art and craft. And Baking! :cake:
 - 📫 How to reach me: 
 
-<a href="mailto:96snehabahl.com"><img src="gmail.png" width="30"/>
+    <a href="mailto:96snehabahl@gmail.com"><img src="gmail.png" width="30"/>       <a href="mailto:sneha.bahl@anu.edu.au"><img src="outlook.png" width="30"/>        <a href="https://www.linkedin.com/in/sneha-bahl/"><img src="linkedin.png" width="30"/>                    <a href="https://www.facebook.com/sneha.bahl.3/"><img src="facebook.png" width="30"/>
